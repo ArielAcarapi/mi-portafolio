@@ -1,5 +1,5 @@
-console.log("Bienvenido a mi portafolio");
+//console.log("Bienvenido a mi portafolio");
 //alert("Gracias por visitar mi pagina");
 document.querySelector('h1').addEventListener('click', () => {
-    alert('Gracias por visitar mi pagina')
+    alert('Hola... Soy Ariel')
 });
